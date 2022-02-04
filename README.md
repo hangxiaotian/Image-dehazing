@@ -7,3 +7,6 @@ The repository includes datasets, papers, and code for image dehazing.
 * TMM2021 [Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing](https://ieeexplore.ieee.org/abstract/document/9537303) [[code](https://github.com/xiaohuiben/CEEF-TMM-2021)]
 * TIP2021 [IDRLP: Image Dehazing Using Region Line Prior](https://ieeexplore.ieee.org/document/9594664)[[code](https://sites.google.com/site/renwenqi888/)]
 * TIP2021 [Multi-Scale Single Image Dehazing Using Laplacian and Gaussian Pyramids](https://ieeexplore.ieee.org/document/9606591)
+
+*** 2020
+* MM2020 [Nighttime Dehazing with a Synthetic Benchmark](https://dl.acm.org/doi/abs/10.1145/3394171.3413763?casa_token=Vr024XVDdBsAAAAA:dadrbvGaW4-wgSVH3KXlFbdFObuStDR13u80TsrU2p988Yrv1is0d-m_IGpeijbcX7EmQMumaVTpTw)[[code](https://github.com/chaimi2013/3R)]
