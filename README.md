@@ -13,3 +13,6 @@ The repository includes datasets, papers, and code for image dehazing.
 * MM2020 [Nighttime Dehazing with a Synthetic Benchmark](https://dl.acm.org/doi/abs/10.1145/3394171.3413763?casa_token=Vr024XVDdBsAAAAA:dadrbvGaW4-wgSVH3KXlFbdFObuStDR13u80TsrU2p988Yrv1is0d-m_IGpeijbcX7EmQMumaVTpTw) [[code](https://github.com/chaimi2013/3R)]
 * TIP2020 [Image Defogging Quality Assessment: Real-world Database and Method](https://ieeexplore.ieee.org/document/9244631) [[code](http://www.vistalab.ac.cn/MRFID-for-defogging/)]
 * TCSVT2020 [Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-Linear Color Balancing](https://ieeexplore.ieee.org/document/9134933) [[code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/)]
+
+### 2015
+* [Nighttime Haze Removal with Glow and Multiple Light Colors](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_Nighttime_Haze_Removal_ICCV_2015_paper.pdf)[[code]](http://yu-li.github.io/)
