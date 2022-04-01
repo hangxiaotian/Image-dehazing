@@ -5,7 +5,8 @@ The repository mainly contains defogging papers with publicly available code.
 * CVPR2021 [Contrastive Learning for Compact Single Image Dehazing](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.pdf) [[code](https://github.com/GlassyWu/AECR-Net)]
 * CVPR2021 [PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf) [[code](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)]
 * TMM2021 [Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing](https://ieeexplore.ieee.org/abstract/document/9537303) [[code](https://github.com/hangxiaotian/CEEF)]
-* TMM2021 [USID-Net: Unsupervised Single Image Dehazing Network via Disentangled Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745359)[[code](https://github.com/dehazing/USID-Net)]
+* TMM2021 [USID-Net: Unsupervised Single Image Dehazing Network via Disentangled Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745359)
+ [[code](https://github.com/dehazing/USID-Net)]
 * TIP2021 [IDRLP: Image Dehazing Using Region Line Prior](https://ieeexplore.ieee.org/document/9594664) [[code](https://sites.google.com/site/renwenqi888/)]
 
 ### 2020
