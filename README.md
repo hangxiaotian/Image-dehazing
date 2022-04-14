@@ -1,6 +1,9 @@
 # Image-dehazing
 The repository mainly contains defogging papers with publicly available code.
 ## Papers
+### 2022
+* CVPR2022 [Vision Transformers for Single Image Dehazing](https://arxiv.org/pdf/2204.03883.pdf) [[code](https://github.com/IDKiro/DehazeFormer)]
+
 ### 2021
 * CVPR2021 [Contrastive Learning for Compact Single Image Dehazing](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.pdf) [[code](https://github.com/GlassyWu/AECR-Net)]
 * CVPR2021 [PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf) [[code](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)]
