@@ -3,9 +3,9 @@ The repository mainly contains dehazing or defogging papers with publicly availa
 ## Papers
 
 ### 2023
-* TIP2023 [Single Image Dehazing Using Saturation Line Prior](https://ieeexplore.ieee.org/document/10141557) [[code](https://github.com/LPengYang/Saturation-Line-Prior)]
 * CVPR2023 [Curricular Contrastive Regularization for Physics-aware Single Image Dehazing
 ](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Curricular_Contrastive_Regularization_for_Physics-Aware_Single_Image_Dehazing_CVPR_2023_paper.pdf) [[code](https://github.com/YuZheng9/C2PNet)]
+* TIP2023 [Single Image Dehazing Using Saturation Line Prior](https://ieeexplore.ieee.org/document/10141557) [[code](https://github.com/LPengYang/Saturation-Line-Prior)]
 
 ### 2021
 * TMM2021 [Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing](https://ieeexplore.ieee.org/abstract/document/9537303) [[code](https://github.com/hangxiaotian/CEEF)]
