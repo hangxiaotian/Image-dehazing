@@ -1,5 +1,5 @@
 # Image-dehazing
-The repository mainly contains dehazing or defogging papers with publicly available code.
+The repository mainly contains works with publicly available code in the field of image defogging or dehazing.
 ## Papers
 
 ### 2023
