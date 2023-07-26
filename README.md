@@ -1,4 +1,4 @@
-# Image-dehazing
+# Image dehazing/defogging
 The repository mainly contains works with publicly available code in the field of image defogging or dehazing.
 ## Papers
 
