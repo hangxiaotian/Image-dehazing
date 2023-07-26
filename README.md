@@ -25,6 +25,7 @@ The repository mainly contains works with publicly available code in the field o
 * TMM2021 [USID-Net: Unsupervised Single Image Dehazing Network via Disentangled Representations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745359)
  [[code](https://github.com/dehazing/USID-Net)]
 * TIP2021 [IDRLP: Image Dehazing Using Region Line Prior](https://ieeexplore.ieee.org/document/9594664) [[code](https://sites.google.com/site/renwenqi888/)]
+* ICCV2021 [Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf) [[code](https://github.com/MartinHahner/LiDAR_fog_sim)]
 
 ### 2020
 * MM2020 [Nighttime Dehazing with a Synthetic Benchmark](https://dl.acm.org/doi/abs/10.1145/3394171.3413763?casa_token=Vr024XVDdBsAAAAA:dadrbvGaW4-wgSVH3KXlFbdFObuStDR13u80TsrU2p988Yrv1is0d-m_IGpeijbcX7EmQMumaVTpTw) [[code](https://github.com/chaimi2013/3R)]
