@@ -5,6 +5,7 @@ The repository mainly contains works with publicly available code in the field o
 ### 2023
 * CVPR2023 [Curricular Contrastive Regularization for Physics-aware Single Image Dehazing
 ](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Curricular_Contrastive_Regularization_for_Physics-Aware_Single_Image_Dehazing_CVPR_2023_paper.pdf) [[code](https://github.com/YuZheng9/C2PNet)]
+* CVPR2023 [Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Video_Dehazing_via_a_Multi-Range_Temporal_Alignment_Network_With_Physical_CVPR_2023_paper.pdf) [[code](https://github.com/jiaqixuac/MAP-Net)]
 * CVPR2023 [Unsupervised Cumulative Domain Adaptation for Foggy Scene Optical Flow
 ](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Unsupervised_Cumulative_Domain_Adaptation_for_Foggy_Scene_Optical_Flow_CVPR_2023_paper.pdf) [[code](https://github.com/hyzhouboy/UCDA-Flow)]
 * WACV2023 [Aerial Image Dehazing with Attentive Deformable Transformers](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf)[[code](https://github.com/AshutoshKulkarni4998/AIDTransformer)]
