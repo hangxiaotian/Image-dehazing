@@ -12,6 +12,9 @@ The repository mainly contains works with publicly available code in the field o
 * WACV2023 [Domain Adaptive Object Detection for Autonomous Driving under Foggy Weather](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Domain_Adaptive_Object_Detection_for_Autonomous_Driving_Under_Foggy_Weather_WACV_2023_paper.pdf) [[code](https://github.com/jinlong17/DA-Detect)]
 * TIP2023 [Single Image Dehazing Using Saturation Line Prior](https://ieeexplore.ieee.org/document/10141557) [[code](https://github.com/LPengYang/Saturation-Line-Prior)]
 
+### 2022
+* CVPR2022 [Image Dehazing Transformer with Transmission-Aware 3D Position Embedding](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Image_Dehazing_Transformer_With_Transmission-Aware_3D_Position_Embedding_CVPR_2022_paper.pdf) [[code](https://github.com/Li-Chongyi/Dehamer)]
+
 ### 2021
 * TMM2021 [Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing](https://ieeexplore.ieee.org/abstract/document/9537303) [[code](https://github.com/hangxiaotian/CEEF)]
 * CVPR2021 [Contrastive Learning for Compact Single Image Dehazing](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.pdf) [[code](https://github.com/GlassyWu/AECR-Net)]
