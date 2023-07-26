@@ -14,6 +14,7 @@ The repository mainly contains works with publicly available code in the field o
 
 ### 2022
 * CVPR2022 [Image Dehazing Transformer with Transmission-Aware 3D Position Embedding](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Image_Dehazing_Transformer_With_Transmission-Aware_3D_Position_Embedding_CVPR_2022_paper.pdf) [[code](https://github.com/Li-Chongyi/Dehamer)]
+* CVPR2022 [Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.pdf) [[code](https://github.com/YaN9-Y/D4)]
 
 ### 2021
 * TMM2021 [Joint Contrast Enhancement and Exposure Fusion for Real-World Image Dehazing](https://ieeexplore.ieee.org/abstract/document/9537303) [[code](https://github.com/hangxiaotian/CEEF)]
