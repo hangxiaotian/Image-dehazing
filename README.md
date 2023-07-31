@@ -8,7 +8,8 @@ The repository mainly contains works with publicly available code in the field o
 * CVPR2023 [Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Video_Dehazing_via_a_Multi-Range_Temporal_Alignment_Network_With_Physical_CVPR_2023_paper.pdf) [[code](https://github.com/jiaqixuac/MAP-Net)]
 * CVPR2023 [Unsupervised Cumulative Domain Adaptation for Foggy Scene Optical Flow
 ](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Unsupervised_Cumulative_Domain_Adaptation_for_Foggy_Scene_Optical_Flow_CVPR_2023_paper.pdf) [[code](https://github.com/hyzhouboy/UCDA-Flow)]
-* WACV2023 [Aerial Image Dehazing with Attentive Deformable Transformers](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf)[[code](https://github.com/AshutoshKulkarni4998/AIDTransformer)]
+* WACV2023 [Aerial Image Dehazing with Attentive Deformable Transformers](https://openaccess.thecvf.com/content/WACV2023/papers/Kulkarni_Aerial_Image_Dehazing_With_Attentive_Deformable_Transformers_WACV_2023_paper.pdf) 
+ [[code](https://github.com/AshutoshKulkarni4998/AIDTransformer)]
 * WACV2023 [Domain Adaptive Object Detection for Autonomous Driving under Foggy Weather](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Domain_Adaptive_Object_Detection_for_Autonomous_Driving_Under_Foggy_Weather_WACV_2023_paper.pdf) [[code](https://github.com/jinlong17/DA-Detect)]
 * TIP2023 [Single Image Dehazing Using Saturation Line Prior](https://ieeexplore.ieee.org/document/10141557) [[code](https://github.com/LPengYang/Saturation-Line-Prior)]
 
